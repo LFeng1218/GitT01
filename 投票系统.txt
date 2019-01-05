@@ -3,9 +3,9 @@
 选项表:oid  content   osid			options
 投票表:iid  uid      sid       oid		item
 
-//修改成功了
-startym.cn/myVote 
 
+startym.cn/myVote 
+修改成功了
 
 1、用户注册：	用户名要求唯一
 2、用户登录：	相同用户不能同时登陆
